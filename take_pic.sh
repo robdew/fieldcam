@@ -12,7 +12,7 @@
 # We will take a picture if the time is between 5 am and 9:30 pm
 
 #cleanup 
-mkdir pics
+mkdir ~/pics
 rm ~/pics/latest.jpg; rm ~/pics/snap1.bmp
 
 
