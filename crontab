@@ -1,0 +1,4 @@
+# */3 * * * * ~/create_tunnel.sh >> tunnel.log 2>&1
+# tunnel no longer needed we have moved to pull architecture
+
+/3 * * * * ~/take_pic.sh >> ~/cam-cron-log.log 2>&1

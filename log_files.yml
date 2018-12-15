@@ -1,0 +1,9 @@
+files:
+  - /var/log/amazon/ssm/amazon-ssm-agent.log
+  - /var/log/amazon/ssm/errors.log
+destination:
+  host: logs7.papertrailapp.com
+  port: 30158
+  protocol: tls
+exclude_patterns:
+  - don't log on me
