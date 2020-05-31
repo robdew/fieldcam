@@ -8,6 +8,16 @@ The fieldcam is run on a Raspberry Pi but as the field is off\-grid and only has
 
 Version 1 proved mostly reliable, but not reliable enough.  This project documents the efforts and changes for version 2.
 
+## Hardware
+
+* Raspberry Pi Model 2 or better (this changes as we consider the actual computer disposable
+* Raspberry Pi Camera Module V2-8 Megapixel
+* Netgear LTE Broadband Modem https://smile.amazon.com/gp/product/B01N5ASNTE
+* Netgeat MIMO Antenna https://smile.amazon.com/Netgear-6000450-MIMO-Antenna-Connectors/dp/B00DN3J03O
+
+We tried a consumer hotspot and is continously overheated, overcharged the battery and had a poor connection.
+
+
 ## Primary Changes for Version 2
 
 ### Logging
